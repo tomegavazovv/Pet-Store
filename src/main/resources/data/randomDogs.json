@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Buddy",
+    "description": "A playful Golden Retriever",
+    "dateOfBirth": "2021-02-15",
+    "rating": 7
+  },
+  {
+    "name": "Max",
+    "description": "A loyal German Shepherd",
+    "dateOfBirth": "2022-05-23",
+    "rating": 10
+  },
+  {
+    "name": "Charlie",
+    "description": "An energetic Beagle",
+    "dateOfBirth": "2021-09-13",
+    "rating": 8
+  },
+  {
+    "name": "Rocky",
+    "description": "A strong Rottweiler",
+    "dateOfBirth": "2018-12-18",
+    "rating": 9
+  },
+  {
+    "name": "Cooper",
+    "description": "A smart Border Collie",
+    "dateOfBirth": "2020-05-27",
+    "rating": 10
+  },
+  {
+    "name": "Daisy",
+    "description": "A sweet Labrador Retriever",
+    "dateOfBirth": "2021-03-09",
+    "rating": 8
+  },
+  {
+    "name": "Bailey",
+    "description": "A gentle Bulldog",
+    "dateOfBirth": "2022-01-25",
+    "rating": 9
+  },
+  {
+    "name": "Molly",
+    "description": "A joyful Poodle",
+    "dateOfBirth": "2021-11-03",
+    "rating": 3
+  },
+  {
+    "name": "Zoe",
+    "description": "A lively Jack Russell Terrier",
+    "dateOfBirth": "2022-04-15",
+    "rating": 6
+  },
+  {
+    "name": "Leo",
+    "description": "A brave Doberman",
+    "dateOfBirth": "2020-02-28",
+    "rating": 10
+  }
+]

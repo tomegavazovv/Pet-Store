@@ -1,0 +1,2 @@
+I haven't written tests more professionally before and
+I know that these could be a lot better, but I don't have the time considering the situation :)

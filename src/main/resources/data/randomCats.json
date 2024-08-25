@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Whiskers",
+    "description": "A curious tabby cat",
+    "dateOfBirth": "2020-07-10"
+  },
+  {
+    "name": "Luna",
+    "description": "A gentle Siamese cat",
+    "dateOfBirth": "2019-11-04"
+  },
+  {
+    "name": "Milo",
+    "description": "A friendly British Shorthair",
+    "dateOfBirth": "2020-03-22"
+  },
+  {
+    "name": "Simba",
+    "description": "A playful Bengal cat",
+    "dateOfBirth": "2021-08-06"
+  },
+  {
+    "name": "Chloe",
+    "description": "A cuddly Persian cat",
+    "dateOfBirth": "2019-02-11"
+  },
+  {
+    "name": "Oliver",
+    "description": "An adventurous Maine Coon",
+    "dateOfBirth": "2020-10-18"
+  },
+  {
+    "name": "Bella",
+    "description": "A charming Ragdoll cat",
+    "dateOfBirth": "2020-06-12"
+  },
+  {
+    "name": "Lucy",
+    "description": "A curious Russian Blue",
+    "dateOfBirth": "2019-09-21"
+  },
+  {
+    "name": "Nala",
+    "description": "A majestic Sphynx cat",
+    "dateOfBirth": "2021-12-20"
+  },
+  {
+    "name": "Cleo",
+    "description": "An elegant Abyssinian cat",
+    "dateOfBirth": "2019-01-09"
+  }
+]
